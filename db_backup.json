@@ -1,0 +1,51 @@
+{
+  "data": {
+    "base_url": "https://sample-videos.com",
+    "api_path": "/img",
+    "extensions": [
+      "jpg",
+      "png"
+    ],
+    "file_sizes": [
+      "50kb",
+      "100kb",
+      "200kb",
+      "500kb",
+      "1mb",
+      "2mb",
+      "3mb",
+      "5mb",
+      "10mb"
+    ],
+    "image_texts": [
+      "Four common mistakes in audio development (atastypixel.com)",
+      "ClickHouse – high-performance open-source distributed column-oriented DBMS (clickhouse.yandex)",
+      "The Ancient City of Florence Could Fit Inside an Atlanta Interchange (2014) (streetsblog.net)",
+      "CHIP 9$ Computer (getchip.com)",
+      "What is Differential Privacy? (cryptographyengineering.com)",
+      "Lock-free programming for the masses (kcsrk.info)",
+      "Intel Launches 4k-enabled Quad Core NUC (intel.com)",
+      "Machine Learning 101: What Is Regularization? (datanice.github.io)",
+      "Latest update to my friend's 19 year side project (pegwars.blogspot.com)",
+      "Keylength – Cryptographic Key Length Recommendation (keylength.com)",
+      "Using ltrace to debug a memory leak (jvns.ca)",
+      "The mutation that famously turned moths black during Industrial Revolution (bbc.com)",
+      "K-Nearest Neighbors from Scratch (lettier.github.io)",
+      "Computer Crash Wipes Out Years of Air Force Investigation Records (govexec.com)",
+      "Ask HN: What non-technical skills make a senior dev and how to develop them?",
+      "The Story of Haskell at IMVU (chadaustin.me)",
+      "A queue of page faults (2014) (zeuxcg.org)",
+      "Another Update (voxelquest.com)",
+      "The Colombian Hit Man Who Became a YouTube Star (nytimes.com)",
+      "Appeals court upholds FCC's net neutrality order (politico.com)",
+      "Google Fonts Redesigned (fonts.google.com)",
+      "Semantic Search with Latent Semantic Analysis (opensourceconnections.com)",
+      "Americans' Confidence in Institutions Stays Low (gallup.com)",
+      "VPAID ads destroy performance and are still served by major ad networks (plus.google.com)",
+      "Show HN: A JavaScript Tool for Database Diagramming (github.com)",
+      "Dropbox says it is cash flow positive, in no rush to IPO (techcrunch.com)",
+      "Serverless Sync in Web Apps Using Bit Torrent (kinlan.me)",
+      "Microsoft to acquire LinkedIn for $26B (microsoft.com)"
+    ]
+  }
+}
